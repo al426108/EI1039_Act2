@@ -1,4 +1,4 @@
-package composite_example;
+package composite;
 
 public interface Caja {
     int getNumeroPorciones();

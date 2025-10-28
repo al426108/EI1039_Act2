@@ -1,4 +1,4 @@
-package composite_example;
+package composite;
 
 public class CajaTeVerde implements Caja {
     private final int porciones = 24;
